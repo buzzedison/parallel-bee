@@ -8,7 +8,7 @@ sections:
     content: |-
       <!--StartFragment-->
 
-      **Interested instarting a full fledged business or a side hustle ?**
+      **Interested in starting a full fledged business or a side hustle ?**
 
       <!--EndFragment-->
 
