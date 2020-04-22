@@ -1,7 +1,8 @@
 ---
 title: BE YOUR OWN INSPIRATION
 date: 2018-05-18T00:00:00.000Z
-content_img_path: /images/inspiration.jpeg
+thumb_img_path: /images/inspiration.jpeg
+content_img_path: ""
 excerpt: You are more than you give yourself permission to experience. You allow
   the voices on the outside shutdown every light begging to shine from the
   inside.
