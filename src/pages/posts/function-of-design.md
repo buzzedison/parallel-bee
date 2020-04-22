@@ -1,19 +1,56 @@
 ---
-title: The function of design is letting design function
-subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
-date: '2018-01-15'
-content_img_path: images/1.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet
-  dictum sit. Duis ut diam quam nulla porttitor massa id neque.
+title: "Node JS 101: What is Node Js"
+subtitle: ""
+date: 2018-01-15
+content_img_path: /images/nodejs.jpeg
+excerpt: ""
 template: post
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
+**What is all the fuss about Node Js?**
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+Companies are in awe of the speed at which Node.js functions. It runs on the V8 engine developed by Google that uses JavaScript into native machine code and operates at super speed
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+LinkedIn opted for Node.js from Ruby on Rails to serve their mobile traffic and that reduced the number of servers from 30 to 3 and made the applications 20 times swifter. PayPal recorded a 35% decline in their response time at the same time doubled requests per second after using Node.js applications.
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+**Companies such as PayPal, Uber, Netflix Walmart, Yahoo, etc. rely on Node for a large chunk of their application portfolio.**Node Js speed is amazing.
+
+### Are you convinced it is worth learning? Yes? Ok great!
+
+## **What is Node JS?**
+
+Node is a cross-platform, run-time environment for executing JavaScript code outside of a browser. Node is not a programming language or a framework. It is a run-time environment for executing JavaScript codes. 10-15 years back, JavaScript was only functional on client side applications, today you can build full stack (front and back end application) without leaving the JavaScript environment.
+
+**NodeJS is Javascript outside of the Browser.**
+
+In 2009, Ryan Dahl took Google Chrome's V8 engine, which is normally confined to a browser, added an event loop, package manager and a low level I/O API, embedded inside a C++ program and ran on his computer. Node.js opened a whole new world what JavaScript could do: access the files, listen to network traffic and HTTP requests, access databases directly, etc.
+
+**Node.js, basically, allows JavaScript to do anything one could with PHP , Ruby on Rails, or Python**
+
+**What can you build with Node?**
+
+* Chat applications/servers
+* Your version of Google Hangout or Skype?
+* Instant messaging services apps
+* Full eCommerce platforms
+* Online gaming apps
+* Netflix
+
+The list is endless.....
+
+**How to download and install Node**
+
+### **go to**[https://nodejs.org](https://nodejs.org/)
+
+
+
+In most cases download the stable version. i.e recommended for most users.
+
+**Follow the installation instructions on this website to guide you.**
+
+### <https://www.guru99.com/download-install-node-js.html>
+
+Congratulations! you just installed Node. Let us check on our command prompt if node was installed. To check if Node was successfully installed, type**node -v**on your command prompt or**node --version**
+
+<!--EndFragment-->
