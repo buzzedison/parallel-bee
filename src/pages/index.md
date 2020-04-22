@@ -96,23 +96,13 @@ sections:
       - label: Contact me
         url: ""
   - type: ctablock
-    title: "You need Business or Tech Support? "
+    title: "Do you need Business or Tech Support? "
     section_id: cta
     component: CtaBlock
     subtitle: "Offering 30 day free support. "
     actions:
       - label: Get Started
         url: ""
-  - type: contentblock
-    title: A Section Without Image
-    section_id: text-no-img
-    component: ContentBlock
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
 menus:
   main:
     title: Home
