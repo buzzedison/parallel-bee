@@ -2,15 +2,29 @@
 title: Home
 sections:
   - type: heroblock
-    title: Hero Section
+    title: Pitch Perfect
     section_id: hero
     component: HeroBlock
-    content: This section can contain a subtitle or tagline. The recommended length
-      is one to three sentences, but can be changed as you prefer.
+    content: |-
+      <!--StartFragment-->
+
+      **Interested instarting a full fledged business or a side hustle ?**
+
+      <!--EndFragment-->
+
+      <!--StartFragment-->
+
+      *Let me help you craft your elevator pitch for Free.*
+
+      **DATE: 1, MAY, 2020. TIME: 11:00 am.** 
+
+      **FEE: FREE** 
+
+      <!--EndFragment-->
     image: /images/untitled-design.png
     actions:
-      - label: Get Started
-        url: docs/index.html
+      - label: SIGN UP NOW!
+        url: https://calendly.com/buzzedison/businesspitch
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
