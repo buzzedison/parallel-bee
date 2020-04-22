@@ -29,10 +29,15 @@ sections:
     section_id: features
     component: FeaturesBlock
     featureslist:
-      - title: Documentation
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+      - title: Learn to code with Edison
+        content: >-
+          <!--StartFragment-->
+
+
+          I have been teaching people how to code for more than a decade. Took some long break in between and started several businesses. I am back now. I want to teach 50, 000 people how to code. You can start for free, and if you like what you are getting, you can subscribe to my paid course.
+
+
+          <!--EndFragment-->
         actions:
           - label: Get Started
             url: docs/index.html
