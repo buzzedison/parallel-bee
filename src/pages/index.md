@@ -66,18 +66,35 @@ sections:
           - label: Coming soon
             url: ""
   - type: contentblock
-    title: A Section With An Image
+    title: Helping people and businesses reach peak performance
     section_id: text-img
     component: ContentBlock
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
+    content: >-
+      <!--StartFragment-->
+
+
+      **Are you looking for a business coach?** Want to start a business, learn to pitch your business to investors, learn to inspire and lead your team, learn to manage your business effectively? 
+
+
+
+
+
+
+      <!--EndFragment-->
+
+
+      Want to find God? or just have an open conversation about God? Have questions you need answers to? 
+
+
+
+
+      Want to learn to Code, looking to start a career in Tech ? **I am your Guy!**
+    image: /images/dsc_1284.jpg
     actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
+      - label: "Some of my work "
+        url: ""
+      - label: Contact me
+        url: ""
   - type: featuresblock
     title: Sample Layouts
     section_id: features-two-col
