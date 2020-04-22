@@ -1,10 +1,10 @@
 ---
 title: Blog
-subtitle: This is an optional subtitle for the blog page
-img_path: images/5.jpg
+subtitle: Insight, Blog, My thoughts, Rantings, Cravings!
+img_path: /images/allie-smith-ns_-2urwt1m-unsplash.jpg
 menus:
   main:
-    title: Blog
+    title: Insight
     weight: 3
 template: blog
 ---
