@@ -40,20 +40,31 @@ sections:
           <!--EndFragment-->
         actions:
           - label: Get Started
-            url: docs/index.html
-      - title: Blog
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+            url: Coming Soon
+      - title: Insight/Blog
+        content: >-
+          <!--StartFragment-->
+
+
+          A lot goes on in my head, and it is nice to be able to share them here. I promise to share my passion, cravings, frustrations, and know-how with you. Thank you for taking your time to read a part of me.
+
+
+          <!--EndFragment-->
         actions:
           - label: View Posts
             url: blog/index.html
-      - title: Style Guides
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+      - title: Find God Here!
+        content: >-
+          <!--StartFragment-->
+
+
+          Open conversation about God. You won't be judged. Want to go into ministry? Think you have been called by God? Let us talk.
+
+
+          <!--EndFragment-->
         actions:
-          - label: Learn More
-            url: /style-guide.html
+          - label: Coming soon
+            url: ""
   - type: contentblock
     title: A Section With An Image
     section_id: text-img
