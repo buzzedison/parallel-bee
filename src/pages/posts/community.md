@@ -59,6 +59,6 @@ Maybe you are working on a project and you feel really stressed, don't worry, th
 
 
 
-[Back to Insight/Blog](https://buzzedison.co/insight)
+
 
 <!--EndFragment-->
