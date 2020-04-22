@@ -1,9 +1,9 @@
-root_folder: /docs/
+root_folder: /resources/
 sections:
-  - about
-  - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - Business development
+  - Career development
+  - Design
