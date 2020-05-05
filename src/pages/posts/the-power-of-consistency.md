@@ -43,8 +43,8 @@ Yes, sometimes we struggle to focus on one thing for 5 minutes.
 
 I love writing, I work 3-4 jobs, I teach people how to code, I coach businesses and budding entrepreneurs. I finally started learning to play the guitar after more than five years of owning one.
 
-Focus, and making sure I do what I say I will do has been really instrumental to being able to joggle all of these things and not go crazy. Lol
+Focus, and making sure I do what I say I will do has been really instrumental to being able to juggle all of these things and not go crazy. Lol
 
 Someone once asked if I ever sleep. Yes! I still get 8 hours of sleep believe it or not. I can be up till 2 am sometimes but then I don’t get up till about 10am with my phone on silence.
 
-I would love to learn about your experience in being consistent. You can reach me on <a href="https://www.twitter.com/buzzedison">Twitter </a> or ask@buzzedison.com 
+I would love to learn about your experience in being consistent. You can reach me on <a href="https://www.twitter.com/buzzedison">Twitter </a> or ask@buzzedison.com
