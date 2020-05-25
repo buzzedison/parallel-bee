@@ -1,3 +1,6 @@
 content: "&copy; BLOOP. All rights reserved."
-links: []
+links:
+  - new_window: true
+    text: twitter
+    url: https://www.twitter.com/buzzedison
 has_social: true
