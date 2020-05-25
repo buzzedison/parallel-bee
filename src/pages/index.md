@@ -23,8 +23,8 @@ sections:
       <!--EndFragment-->
     image: /images/untitled-design.png
     actions:
-      - label: SIGN UP NOW!
-        url: https://calendly.com/buzzedison/businesspitch
+      - label: THIS EVENT IS CLOSED
+        url: ""
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
