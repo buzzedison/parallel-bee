@@ -1,3 +1,22 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "Home",
+      "title": "Home",
+      "url": "https://www.buzzedison.co",
+      "weight": 1
+    },
+    {
+      "identifier": "Blog",
+      "title": "Insight",
+      "url": "https://www.buzzedison.co/blog",
+      "weight": 2
+    },
+    {
+      "identifier": "Resources",
+      "title": "Resources",
+      "url": "https://www.buzzedison.co/resources",
+      "weight": 3
+    }
+  ]
 }
