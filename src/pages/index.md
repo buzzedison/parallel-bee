@@ -2,34 +2,34 @@
 title: Home
 sections:
   - type: heroblock
-    title: Pitch Perfect
+    title: "Business Development Boot Camp "
     section_id: hero
     component: HeroBlock
-    content: |-
+    content: >-
       <!--StartFragment-->
 
-      **Interested in starting a full fledged business or a side hustle ?**
+
+      **This Business Bootcamp is different when compared to most online courses you have taken.**
+
+
+      The Bootcamp is a hands-on, immersive, and rigorous learning experience. In 90 days, you’ll learn to identify business opportunities, develop winning solutions, and select a business model for the business you want to build.
+
+
+      \
+
+      **Expect to spend 10-15 hours per week on live sessions, individual, and team work.**
+
 
       <!--EndFragment-->
-
-      <!--StartFragment-->
-
-      *Let me help you craft your elevator pitch for Free.*
-
-      **DATE: 1, MAY, 2020. TIME: 11:00 am.** 
-
-      **FEE: FREE** 
-
-      <!--EndFragment-->
-    image: /images/untitled-design.png
+    image: ""
     actions:
-      - label: THIS EVENT IS CLOSED
-        url: ""
+      - label: SIGN UP HERE
+        url: https://www.grindstone.bloopglobal.com/registration/
   - type: featuresblock
     section_id: features
     component: FeaturesBlock
     featureslist:
-      - title: Learn to code with Edison
+      - title: Learn to code with Codewit
         content: >-
           <!--StartFragment-->
 
@@ -40,7 +40,7 @@ sections:
           <!--EndFragment-->
         actions:
           - label: Get Started
-            url: Coming Soon
+            url: "https://www.codewit.co/bootcamp "
       - title: Insight/Blog
         content: >-
           <!--StartFragment-->
