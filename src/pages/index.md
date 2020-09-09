@@ -9,19 +9,16 @@ sections:
       <!--StartFragment-->
 
 
-      **This Business Bootcamp is different when compared to most online courses you have taken.**
-
+      **This Business Bootcamp is different when compared to most online courses you have taken.**\
 
       The Bootcamp is a hands-on, immersive, and rigorous learning experience. In 90 days, you’ll learn to identify business opportunities, develop winning solutions, and select a business model for the business you want to build.
 
-
-      \
 
       **Expect to spend 10-15 hours per week on live sessions, individual, and team work.**
 
 
       <!--EndFragment-->
-    image: ""
+    image: /images/bootcamp.jpg
     actions:
       - label: SIGN UP HERE
         url: https://www.grindstone.bloopglobal.com/registration/
