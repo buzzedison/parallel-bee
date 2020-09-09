@@ -88,10 +88,10 @@ sections:
       Want to learn to Code, looking to start a career in Tech ? **I am your Guy!**
     image: /images/dsc_1284.jpg
     actions:
-      - label: "Some of my work "
-        url: ""
-      - label: Contact me
-        url: ""
+      - label: Connect on Twitter
+        url: https://www.twitter.com/buzzedison
+      - label: LinkedIn
+        url: https://www.linkedin.com/in/buzzedison
   - type: ctablock
     title: "Do you need Business or Tech Support? "
     section_id: cta
